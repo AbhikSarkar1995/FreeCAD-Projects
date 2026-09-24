@@ -1,0 +1,10 @@
+1. Length, width, height of the bracket are as per client criterion to fit inside a box of 120 X 80 X 60 mm.
+2. Base length and width are selected as 120 X 60 mm for maximum attachment stability with the connecting parts.
+3. Hole diameters are selected with a little extra tolerance to accommodate the ISO M8 size bolts with enough clearance.
+4. Base hole positions are selected to maximize the base anchoring, vertical hole positions based on the symmetry considerations. 
+5. All holes have ISO M8 countersink for flus fitting of star, plus , minus, allen or torx type countersink bolt heads.
+6. Corner radius of the bracket is selected as 8 mm for better finish, symmetry  and prevent sharp edges.
+7. Triangular grouts are positioned along the same base lines along the length as are the holes, grout thickness selected
+randomly as 5 mm.
+8. Grout angle is 45 degree for symmetric load distribution.
+9. All the corners and edges along the bracket were run by a 0.5 mm chamfer to remve sharp edges and better aesthetics.
